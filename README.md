@@ -1,0 +1,1 @@
+A prova de PBD terá apenas uma questão e será a criação de uma Function ou Stored Procedure que ficará a nosso critério.
